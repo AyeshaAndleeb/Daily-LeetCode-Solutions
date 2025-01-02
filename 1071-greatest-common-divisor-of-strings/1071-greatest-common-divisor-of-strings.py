@@ -1,8 +1,14 @@
-from math import gcd
 class Solution:
-    def gcdOfStrings(self, str1: str, str2: str) -> str:
-        if str1 + str2 != str2 + str1:
-            return ""
-        # here we are finding the greatest lenghth by gcd
-        gcd_length = gcd(len(str1), len(str2))
-        return str1[ :gcd_length]
+    def mergeAlternately(self, word1: str, word2: str) -> str:
+        i , j = 0 , 0
+        res = []
+        while i < len(word1) and j < len(word2):
+            res.append(word1[i])
+            res.append(word2[j])
+            i += 1
+            j += 1
+        res.append(word1[i:])
+        res.append(word2[j:])
+        return "".join(res)
+            
+
