@@ -4,6 +4,7 @@ class Solution:
             return 0
         num_set = set(nums)
         max_length = 0 #variable to track the longest sequence
+        
         for num in num_set:
             if num - 1 not in num_set:
                 current_num = num
@@ -15,7 +16,7 @@ class Solution:
                 
                 max_length = max(max_length, current_length)
         return max_length
-        
+
             
 
         
