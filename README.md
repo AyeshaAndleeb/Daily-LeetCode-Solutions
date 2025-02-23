@@ -1,37 +1,18 @@
-# 75-Day LeetCode Challenge
+# LeetCode Journey 🚀
 
-Welcome to my journey of solving LeetCode problems daily with the **75-Day LeetCode Sheet**! 🚀
+Welcome to my **LeetCode Journey!** This repository tracks my daily progress in solving LeetCode problems.
 
-This repository contains my solutions to the problems I tackle each day as part of this challenge. Each solution is thoughtfully crafted and organized for ease of understanding. 
+## 📌 About This Repository
+- Solutions are categorized by **difficulty** (Easy, Medium, Hard).
+- Each solution is automatically uploaded via **LeetHub**.
+- Includes a **README.md** for problem explanations and complexity analysis.
+- Tracks my **75-day LeetCode challenge** journey.
 
-## 📚 Objectives:
-- **Strengthen problem-solving skills** in algorithms and data structures.
-- **Stay consistent** and track progress over 75 days.
-- **Share my learning journey** with the developer community.
+## 🚀 Goals
+- Solve at least **one LeetCode problem daily**.
+- Improve **problem-solving skills**.
+- Prepare for **technical interviews**.
 
-## 🗂️ Repository Structure:
-- Each day’s solutions are stored in their respective folders (e.g., `Day01`, `Day02`).
-- Each solution includes:
-  - The problem description (if applicable).
-  - My approach and explanation.
-  - The solution code.
- 
-## 🌟 Why This Challenge?
-**I took on the 75-Day LeetCode Challenge to:**
-- Improve problem-solving skills in algorithms and data structures.
-- Prepare for coding interviews with consistent practice.
-- Track my growth and share my journey with others.
-
-
-## 🤝 Contributions
-- Found a better solution? Feel free to open a pull request!
-- Have feedback? Open an issue, and let’s discuss.
-
-
-## 🌟 How to Use:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/75-day-leetcode-challenge.git
-
-
-   
+## 🎯 Connect with Me
+- **GitHub**: [AyeshaAndleeb](https://github.com/AyeshaAndleeb)
+- **LinkedIn**: [Ayesha Andleeb](https://www.linkedin.com/in/ayesha-andleeb-262352278/)
