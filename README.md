@@ -3,10 +3,10 @@
 Welcome to my **LeetCode Journey!** This repository tracks my daily progress in solving LeetCode problems.
 
 ## 📌 About This Repository
-- Solutions are categorized by **difficulty** (Easy, Medium, Hard).
-- Each solution is automatically uploaded via **LeetHub**.
-- Includes a **README.md** for problem explanations and complexity analysis.
-- Tracks my **75-day LeetCode challenge** journey.
+- All my **LeetCode solutions** are here.
+- Includes a **README.md** for each problem explaining the approach and solution.
+- Tracks my **75-day LeetCode challenge** journey and more that I solve on daily basis.
+- Helps improve **coding efficiency** and **problem-solving skills**.
 
 ## 🚀 Goals
 - Solve at least **one LeetCode problem daily**.
