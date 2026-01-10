@@ -1,12 +1,14 @@
 class Solution:
     def finalPrices(self, prices: List[int]) -> List[int]:
         n = len(prices)
-        answer = prices[:]   # copy of prices
+        answer = prices[:]
+        stack = []   # yahan indexes store honge
 
         for i in range(n):
-            for j in range(i + 1, n):
-                if prices[j] <= prices[i]:
-                    answer[i] = prices[i] - prices[j]
-                    break   # pehla discount mil gaya
+            while stack and prices[i] <= prices[stack[-1]]:
+                idx = stack.pop()
+                answer[idx] -= prices[i]
+
+            stack.append(i)
 
         return answer
