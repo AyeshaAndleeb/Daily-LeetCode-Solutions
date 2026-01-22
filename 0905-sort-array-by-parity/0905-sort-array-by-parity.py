@@ -1,12 +1,13 @@
 class Solution:
     def sortArrayByParity(self, nums):
-        even = []
-        odd = []
-        
-        for num in nums:
-            if num % 2 == 0:
-                even.append(num)
+        n  = len(nums)
+        left = 0
+        right = n - 1  
+        while left < right:
+            if nums[left] % 2 == 0:
+                left+=1
+            elif nums[right] % 2 == 1:
+                right -=1
             else:
-                odd.append(num)
-        
-        return even + odd
+                nums[left] , nums[right] = nums[right], nums[left]
+        return nums
