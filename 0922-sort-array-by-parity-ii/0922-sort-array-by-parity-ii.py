@@ -1,18 +1,17 @@
 class Solution:
-    def sortArrayByParityII(self, nums: List[int]) -> List[int]:
+    def sortArrayByParityII(self, nums):
+        i = 0  # even index pointer
+        j = 1  # odd index pointer
         n = len(nums)
-        result = [0] * n
-        
-        even_index = 0
-        odd_index = 1
-        
-        for num in nums:
-            if num % 2 == 0:   # even number
-                result[even_index] = num
-                even_index += 2
-            else:              # odd number
-                result[odd_index] = num
-                odd_index += 2
-        
-        return result
-      
+
+        while i < n and j < n:
+            if nums[i] % 2 == 0:
+                i += 2
+            elif nums[j] % 2 == 1:
+                j += 2
+            else:
+                nums[i], nums[j] = nums[j], nums[i]
+                i += 2
+                j += 2
+
+        return nums
