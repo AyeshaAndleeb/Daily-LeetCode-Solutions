@@ -22,6 +22,7 @@ Welcome to my **LeetCode Journey!** This repository tracks my daily progress in 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0113-path-sum-ii](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -35,4 +36,8 @@ Welcome to my **LeetCode Journey!** This repository tracks my daily progress in 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
