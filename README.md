@@ -40,4 +40,12 @@ Welcome to my **LeetCode Journey!** This repository tracks my daily progress in 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
