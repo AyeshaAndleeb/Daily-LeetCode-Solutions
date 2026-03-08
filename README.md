@@ -24,6 +24,7 @@ Welcome to my **LeetCode Journey!** This repository tracks my daily progress in 
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0113-path-sum-ii](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@ Welcome to my **LeetCode Journey!** This repository tracks my daily progress in 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +55,12 @@ Welcome to my **LeetCode Journey!** This repository tracks my daily progress in 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
