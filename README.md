@@ -25,6 +25,7 @@ Welcome to my **LeetCode Journey!** This repository tracks my daily progress in 
 | [0039-combination-sum](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0113-path-sum-ii](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0784-letter-case-permutation](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ Welcome to my **LeetCode Journey!** This repository tracks my daily progress in 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -64,9 +66,11 @@ Welcome to my **LeetCode Journey!** This repository tracks my daily progress in 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0784-letter-case-permutation](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0784-letter-case-permutation](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0784-letter-case-permutation/) | Medium |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 <!---LeetCode Topics End-->
