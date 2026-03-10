@@ -31,18 +31,22 @@ Welcome to my **LeetCode Journey!** This repository tracks my daily progress in 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/0039-combination-sum/) | Medium |
+| [1110-delete-nodes-and-return-forest](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1239-maximum-length-of-a-concatenated-string-with-unique-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Linked List
@@ -61,6 +65,7 @@ Welcome to my **LeetCode Journey!** This repository tracks my daily progress in 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1110-delete-nodes-and-return-forest](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/AyeshaAndleeb/Daily-LeetCode-Solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
